@@ -1,1 +1,4 @@
-# Intelligent_Bank_Dashboard
+# DigitalHana
+## Project Description
+## Bank Simulation
+## 
